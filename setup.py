@@ -89,7 +89,7 @@ setup(
     # requirements files see:
     # https://packaging.python.org/en/latest/requirements.html
     install_requires=[
-        'datefinder-lexpredict==0.6.2.1',
+        'datefinder',
         'dateparser==0.7.2',
         'gensim==3.8.3',
         'joblib==0.14.0',
