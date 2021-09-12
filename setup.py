@@ -100,7 +100,7 @@ setup(
         'pycountry==20.7.3',
         'regex==2020.11.13',
         'reporters-db==2.0.3',
-        'requests==2.24.0',
+        'requests',
         'scipy==1.5.1',
         'scikit-learn==0.23.1',
         'Unidecode==1.1.1',
